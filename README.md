@@ -4,11 +4,12 @@
 
 ## Links
 
-- [Repo](https://github.com/BayandaButhelezi/golf-le-fluer-product-card "<project-name> Repo")
+- [Repo](https://github.com/BayandaButhelezi/404-Page-Not-Found "<project-name> Repo")
 
-- [Live](https://golflefluer.netlify.app "Live View")
+- [Live](https://404pagenotfoxnd.netlify.app "Live View")
 
 ## Screenshots
+<img width="960" alt="404" src="https://user-images.githubusercontent.com/77545474/144991503-e694c4db-2b45-4d6a-a56b-57bcaa746990.PNG">
 
 
 Built wih:
